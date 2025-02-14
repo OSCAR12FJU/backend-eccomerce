@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "outDir": "./dist", // Carpeta donde se generará el JS
+    "rootDir": "./",   // Indica que el TS está en la raíz del proyecto
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Projects */
